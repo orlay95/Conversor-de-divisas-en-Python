@@ -28,7 +28,7 @@ if __name__ == '__main__':
 
             [1] Moneda chilena a Dolar
             [2] Moneda colombiana a Dolar
-            [3] Moneda argentida a Dolar
+            [3] Moneda argentina a Dolar
             [4] Moneda mexicana a Dolar
 
         Selecciona: '''))
